@@ -4,5 +4,5 @@ Abrir el proyecto en Visual Studio Community
 Presionar la tecla "F5"
 ## Capturas
 
-![Captura 1](capturas/Cap 1.png)
+![Captura 1](capturas/Cap1.png)
 
